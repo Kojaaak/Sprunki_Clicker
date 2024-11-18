@@ -1,11 +1,18 @@
 {
-  "characters": [
-    { "name": "Character1", "isEffectActive": 1 },
-    { "name": "Character2", "isEffectActive": 0 },
-    { "name": "Character3", "isEffectActive": 1 },
-    { "name": "Character4", "isEffectActive": 0 },
-    { "name": "Character5", "isEffectActive": 1 },
-    { "name": "Character6", "isEffectActive": 0 },
-    { "name": "Character7", "isEffectActive": 1 }
+  "effectStates": [
+    { "name": "Character1", "isActive": 1 },
+    { "name": "Character2", "isActive": 0 },
+    { "name": "Character3", "isActive": 1 },
+    { "name": "Character4", "isActive": 0 },
+    { "name": "Character5", "isActive": 1 },
+    { "name": "Character6", "isActive": 0 },
+    { "name": "Character7", "isActive": 1 },
+    { "name": "Character8", "isActive": 0 },
+    { "name": "Character9", "isActive": 1 },
+    { "name": "Character10", "isActive": 0 },
+    { "name": "Character11", "isActive": 1 },
+    { "name": "Character12", "isActive": 0 },
+    { "name": "Character13", "isActive": 1 },
+    { "name": "Character14", "isActive": 0 }
   ]
 }
