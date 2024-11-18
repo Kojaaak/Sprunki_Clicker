@@ -1,0 +1,11 @@
+{
+  "characters": [
+    { "name": "Character1", "isEffectActive": 1 },
+    { "name": "Character2", "isEffectActive": 0 },
+    { "name": "Character3", "isEffectActive": 1 },
+    { "name": "Character4", "isEffectActive": 0 },
+    { "name": "Character5", "isEffectActive": 1 },
+    { "name": "Character6", "isEffectActive": 0 },
+    { "name": "Character7", "isEffectActive": 1 }
+  ]
+}
