@@ -1,18 +1,18 @@
 {
   "effectStates": [
-    { "name": "Character1", "isActive": 1 },
-    { "name": "Character2", "isActive": 1 },
-    { "name": "Character3", "isActive": 1 },
-    { "name": "Character4", "isActive": 1 },
-    { "name": "Character5", "isActive": 1 },
-    { "name": "Character6", "isActive": 1 },
-    { "name": "Character7", "isActive": 1 },
-    { "name": "Character8", "isActive": 1 },
-    { "name": "Character9", "isActive": 1 },
-    { "name": "Character10", "isActive": 1 },
-    { "name": "Character11", "isActive": 1 },
-    { "name": "Character12", "isActive": 1 },
-    { "name": "Character13", "isActive": 1 },
-    { "name": "Character14", "isActive": 1 }
+    { "name": "Character1", "isActive": 0 },
+    { "name": "Character2", "isActive": 0 },
+    { "name": "Character3", "isActive": 0 },
+    { "name": "Character4", "isActive": 0 },
+    { "name": "Character5", "isActive": 0 },
+    { "name": "Character6", "isActive": 0 },
+    { "name": "Character7", "isActive": 0 },
+    { "name": "Character8", "isActive": 0 },
+    { "name": "Character9", "isActive": 0 },
+    { "name": "Character10", "isActive": 0 },
+    { "name": "Character11", "isActive": 0 },
+    { "name": "Character12", "isActive": 0 },
+    { "name": "Character13", "isActive": 0 },
+    { "name": "Character14", "isActive": 0 }
   ]
 }
